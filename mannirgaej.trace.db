@@ -1,0 +1,6 @@
+02-12 12:51:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "STB" not found; SQL statement:
+select * from stb [42102-182]
+02-12 12:55:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "STB" not found; SQL statement:
+select * from stb [42102-182]
